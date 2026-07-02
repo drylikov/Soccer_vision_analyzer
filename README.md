@@ -1,4 +1,4 @@
-# SoccerVision
+# Soccer vision analyzer.
 
 An AI-powered soccer clip analyzer built with Python, OpenCV, YOLO, and Streamlit.
 
